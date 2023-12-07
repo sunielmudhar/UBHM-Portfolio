@@ -3,7 +3,7 @@ The following is a small web portfolio to showcase completed projects
 
 ## Project Description
 
-This aim of this project is to create a portfolio that is capable of showcasing my skills to potential employers. Although awaiting the addition of future works, this portfolio will highlight my best works recently produced, complete with deployed applications and their links. Early iterations of this portfolio will contain placeholder projects, however these placeholders will be updated as more projects are completed and deployed.
+The aim of this project is to create a portfolio that is capable of showcasing my skills to potential employers. Although awaiting the addition of future works, this portfolio will highlight my best works recently produced, complete with deployed applications and their links. Early iterations of this portfolio will contain placeholder projects, however these placeholders will be updated as more projects are completed and deployed.
 
 The portfolio itself may see future updates, with earlier iterations viewable within this GitHub repos commit records. Future iterations may include, but are not limited to:
 
