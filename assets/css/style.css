@@ -184,24 +184,19 @@ nav > a {
   margin: 0%;
   background-color: var(--secondaryColour);
   font-size: 18px;
-  width: 250px;
 }
 
 #project2 .label, #project3 .label, #project4 .label, #project5 .label {
   height: 100%;
+  width: 30%;
 }
 
 #project1 .label {
   top: 75%;
+  width: 250px;
 }
 
 /*--media--*/
-@media only screen and (max-width: 1230px) {
-  #project2 .label, #project3 .label, #project4 .label, #project5 .label {
-    width: 30%;
-  }
-}
-
 @media only screen and (max-width: 827px){
   nav > a {
     font-size: 24px;
