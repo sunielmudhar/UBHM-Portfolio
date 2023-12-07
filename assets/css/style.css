@@ -184,7 +184,7 @@ nav > a {
   margin: 0%;
   background-color: var(--secondaryColour);
   font-size: 18px;
-  width: 20%;
+  width: 250px;
 }
 
 #project2 .label, #project3 .label, #project4 .label, #project5 .label {
@@ -197,8 +197,8 @@ nav > a {
 
 /*--media--*/
 @media only screen and (max-width: 1230px) {
-  .label {
-    width: 40%;
+  #project2 .label, #project3 .label, #project4 .label, #project5 .label {
+    width: 30%;
   }
 }
 
@@ -235,6 +235,7 @@ nav > a {
   #project1 .label {
     top: 0%;
     height: 100%;
+    width: 30%;
   }
   
 }
